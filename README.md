@@ -1,4 +1,4 @@
-# Compositional Foundation Models for Hierarchical Planning 
+# Compositional Foundation Models for Hierarchical Planning
 <div align="center">
 
 [[Website]](https://hierarchical-planning-foundation-model.github.io/)
@@ -28,7 +28,6 @@ To make effective decisions in novel environments with long-horizon goals, it is
   author={Ajay, Anurag and Han, Seungwook and Du, Yilun and Li, Shaung and Gupta, Abhi and Jaakkola, Tommi and Tenenbaum, Josh and Kaelbling, Leslie and Srivastava, Akash and Agrawal, Pulkit},
   journal={arXiv preprint arXiv:2309.08587},
   year={2023}
-}
 }
 ```
 
